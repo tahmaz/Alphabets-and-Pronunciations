@@ -157,34 +157,34 @@ This repository provides an overview of alphabets from various languages, includ
 
 ### English Alphabet Pronunciations
 
-| **Capital Letter** | **Small Letter** | **Phonic (Pronunciation)** | **Name**     |
-|---------------------|------------------|----------------------------|--------------|
-| A                   | a                | /æ/ (as in "apple")        | A (Ay)       |
-| B                   | b                | /b/ (as in "bat")          | B (Bee)      |
-| C                   | c                | /k/ (as in "cat")          | C (See)      |
-| D                   | d                | /d/ (as in "dog")          | D (Dee)      |
-| E                   | e                | /ɛ/ (as in "egg")          | E (Ee)       |
-| F                   | f                | /f/ (as in "fish")         | F (Ef)       |
-| G                   | g                | /g/ (as in "goat")         | G (Gee)      |
-| H                   | h                | /h/ (as in "hat")          | H (Aitch)    |
-| I                   | i                | /ɪ/ (as in "igloo")        | I (Eye)      |
-| J                   | j                | /dʒ/ (as in "juice")       | J (Jay)      |
-| K                   | k                | /k/ (as in "kite")         | K (Kay)      |
-| L                   | l                | /l/ (as in "lion")         | L (El)       |
-| M                   | m                | /m/ (as in "man")          | M (Em)       |
-| N                   | n                | /n/ (as in "nose")         | N (En)       |
-| O                   | o                | /ɒ/ (as in "octopus")      | O (Oh)       |
-| P                   | p                | /p/ (as in "pig")          | P (Pee)      |
-| Q                   | q                | /kw/ (as in "queen")       | Q (Cue)      |
-| R                   | r                | /r/ (as in "rabbit")       | R (Ar)       |
-| S                   | s                | /s/ (as in "sun")          | S (Es)       |
-| T                   | t                | /t/ (as in "top")          | T (Tee)      |
-| U                   | u                | /ʌ/ (as in "umbrella")     | U (You)      |
-| V                   | v                | /v/ (as in "van")          | V (Vee)      |
-| W                   | w                | /w/ (as in "water")        | W (Double-U) |
-| X                   | x                | /ks/ (as in "box")         | X (Ex)       |
-| Y                   | y                | /j/ (as in "yellow")       | Y (Wy)       |
-| Z                   | z                | /z/ (as in "zebra")        | Z (Zed/Zee)  |
+| **Letter**  | **Phonic (Pronunciation)** | **Name**     |
+|---------------------|----------------------------|--------------|
+| A a                | /æ/ (as in "apple")        | A (Ay)       |
+| B b                | /b/ (as in "bat")          | B (Bee)      |
+| C c                | /k/ (as in "cat")          | C (See)      |
+| D d                | /d/ (as in "dog")          | D (Dee)      |
+| E e                | /ɛ/ (as in "egg")          | E (Ee)       |
+| F f                | /f/ (as in "fish")         | F (Ef)       |
+| G g                | /g/ (as in "goat")         | G (Gee)      |
+| H h                | /h/ (as in "hat")          | H (Aitch)    |
+| I i                | /ɪ/ (as in "igloo")        | I (Eye)      |
+| J j                | /dʒ/ (as in "juice")       | J (Jay)      |
+| K k                | /k/ (as in "kite")         | K (Kay)      |
+| L l                | /l/ (as in "lion")         | L (El)       |
+| M m                | /m/ (as in "man")          | M (Em)       |
+| N n                | /n/ (as in "nose")         | N (En)       |
+| O o                | /ɒ/ (as in "octopus")      | O (Oh)       |
+| P p                | /p/ (as in "pig")          | P (Pee)      |
+| Q q                | /kw/ (as in "queen")       | Q (Cue)      |
+| R r                | /r/ (as in "rabbit")       | R (Ar)       |
+| S s                | /s/ (as in "sun")          | S (Es)       |
+| T t                | /t/ (as in "top")          | T (Tee)      |
+| U u                | /ʌ/ (as in "umbrella")     | U (You)      |
+| V v                | /v/ (as in "van")          | V (Vee)      |
+| W w                | /w/ (as in "water")        | W (Double-U) |
+| X x                | /ks/ (as in "box")         | X (Ex)       |
+| Y y                | /j/ (as in "yellow")       | Y (Wy)       |
+| Z z                | /z/ (as in "zebra")        | Z (Zed/Zee)  |
 
 
 
