@@ -56,7 +56,7 @@ This repository provides an overview of alphabets from various languages, includ
 | H h    | [h]                | as in *hat*            |
 | X x    | [x]                | like *ch* in *loch*    |
 | İ i    | [i]                | as in *machine*        |
-| ı    | [ɪ]               | like *i* in *bit*      |
+| I ı    | [ɪ]               | like *i* in *bit*      |
 | J j    | [ʒ]               | as in *vision*         |
 | K k    | [k]                | as in *kite*           |
 | Q q    | [gʰ]              | like hard *g*           |
@@ -91,7 +91,7 @@ This repository provides an overview of alphabets from various languages, includ
 | G g    | [g]                | as in *go*              |
 | Ğ ğ    | soft *g* sound     | silent elongation      |
 | H h    | [h]                | as in *hat*             |
-| ı    | [ɪ]               | like *i* in *bit*      |
+| I ı    | [ɪ]               | like *i* in *bit*      |
 | İ i    | [i]                | as in *machine*         |
 | J j    | [ʒ]               | as in *measure*         |
 | K k    | [k]                | as in *kite*            |
