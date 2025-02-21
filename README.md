@@ -13,7 +13,7 @@ This repository provides an overview of alphabets from various languages, includ
 `A B C Ç D E Ə F G Ğ H X I İ J K Q L M N O Ö P R S Ş T U Ü V Y Z`
 
 ### Brief sentence which has all letters
-`Ağır bir çətinlikdə, kəskin düşüncələr, qərarlı insanlar, həyat yoldaşları və özəl müzakirələr ətrafında sıx bir fəaliyyət var`
+`Ağır bir çətinlikdə, kəskin düşüncələr, qərarlı insanlar, həyat yoldaşları və özəl müzakirələr ətrafında sıx bir fəaliyyət var.`
 
 ---
 
@@ -22,6 +22,9 @@ This repository provides an overview of alphabets from various languages, includ
 `a b c ç d e f g ğ h ı i j k l m n o ö p r s ş t u ü v y z q w x`  
 **Uppercase:**  
 `A B C Ç D E F G Ğ H I İ J K L M N O Ö P R S Ş T U Ü V Y Z Q W X`
+
+### Brief sentence which has all letters
+`Çekici bir köpekle, şık bir çanta taşıyan zeki, akıllı bir kadın, çok hızlı şekilde yolda yürüyordu.`
 
 ---
 
