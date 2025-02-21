@@ -12,8 +12,9 @@ This repository provides an overview of alphabets from various languages, includ
 **Uppercase:**  
 `A B C Ç D E Ə F G Ğ H X I İ J K Q L M N O Ö P R S Ş T U Ü V Y Z`
 
-**Brief sentence which has all letters:**
+###Brief sentence which has all letters
 `Ağır bir çətinlikdə, kəskin düşüncələr, qərarlı insanlar, həyat yoldaşları və özəl müzakirələr ətrafında sıx bir fəaliyyət var`
+
 ---
 
 ### Turkish Alphabet
